@@ -1,4 +1,4 @@
-<h1>Survey Form</h1><br>
+<h1>Survey Form</h1>
 This is a simple survey form created using HTML and styled with CSS, including Tailwind CSS framework.<br>
 
 <h1>Features</h1><br>
